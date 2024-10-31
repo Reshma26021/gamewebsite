@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 500px;
+  }
+  
+  .game button {
+    margin: 10px;
+    padding: 10px 20px;
+  }
+  
+  .result h2 {
+    color: #333;
+  }
+  
+  .scoreboard p {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
